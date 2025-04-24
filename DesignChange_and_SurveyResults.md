@@ -106,4 +106,4 @@ The app should be accessible to as many people as possible, adding accessibility
 
 For people with disabilities or difficulties, accessibility options will allow for more a more comfortable, easier and generally better experience on the app and will vastly expand the demographic of people who can use the app.
 ### How to improve
-In the settings popout, add a new option to view accessibility settings, which will open a page similar to privacy settings, but with options to change font size (default size with a - to the left and + to the right), background colour (dropdown with a select few options) and font colour (dropdown with a select few options).
+In the settings popout, add a new option to view accessibility settings, which will open a page similar to privacy settings, but with options to change font size (using 3 font size presets), background colour (dropdown with a select few options) and font colour (dropdown with a select few options).
